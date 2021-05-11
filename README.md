@@ -1,2 +1,2 @@
 # CodeQuotient
-CodeQuotient SuperCoders Program
+CodeQuotient SuperCoders Program Solutions in C++
